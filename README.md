@@ -361,3 +361,17 @@ End Sub
 
 ## Summary
 
+### Advantages and Disadvantages to refactoring Code in general
+
+Advantages.A) Takes less memory to run
+Advantages.B) takes less time to render results and output
+Disadvantages.A) Time it takes to refactor may not be worth the increase in speed
+Disadvantages.B) Time it takes to refactor may not be worth the decrease in memory
+
+### Advantages and Disadvantages to refactoring this script
+
+Advantages.A) Is dynamic, Can input more data and operate on it the same way
+Advantages.B) As you add more data to loop through, The efficiency will scale with the size of the data
+Disadvantages.A) This is a small dataset, I do not feel like it was necessary for what steve was asking for but of course was best practice
+Disadvantages.B) Time it takes to refactor may not be worth the decrease in memory or time
+
