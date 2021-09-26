@@ -16,10 +16,12 @@ The total volume for RUN and ENPH about doubled from 2017 to 2018 and they still
 
 2017:
 
-![2017 Table](https://github.com/joshdaniels/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![2017 Table](https://github.com/joshdaniels/stock-analysis/blob/main/2017_table.png)
 
 
+2018:
 
+![2018 Table](https://github.com/joshdaniels/stock-analysis/blob/main/2018_table.png)
 
 
 
