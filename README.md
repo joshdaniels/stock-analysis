@@ -23,7 +23,17 @@ The total volume for RUN and ENPH about doubled from 2017 to 2018 and they still
 
 ![2018 Table](https://github.com/joshdaniels/stock-analysis/blob/main/2018_table.png)
 
+### About the Code
 
+When we initially ran this we were not using arrays and we were running through every single cell in the data. This resulted in a slower completion time for both 2017 & 2018.
+
+2017 runtime:
+
+![2017 Runtime](https://github.com/joshdaniels/stock-analysis/blob/main/2017_before.png)
+
+2018 runtime:
+
+![2018 Runtime](https://github.com/joshdaniels/stock-analysis/blob/main/2018_before.png)
 
 ## Summary
 
