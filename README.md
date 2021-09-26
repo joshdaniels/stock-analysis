@@ -27,13 +27,26 @@ The total volume for RUN and ENPH about doubled from 2017 to 2018 and they still
 
 When we initially ran this we were not using arrays and we were running through every single cell in the data. This resulted in a slower completion time for both 2017 & 2018.
 
-2017 runtime:
+2017 Before Refactoring runtime:
 
 ![2017 Runtime](https://github.com/joshdaniels/stock-analysis/blob/main/2017_before.png)
 
-2018 runtime:
+2018 Before Refactoring runtime:
 
 ![2018 Runtime](https://github.com/joshdaniels/stock-analysis/blob/main/2018_before.png)
+
+
+### Refactoring
+
+By using arrays and nested loops, We were able to drastically reduce the amount of time it took to output the same results. 
+
+2017 After Refactoring runtime:
+
+![2017 ARuntime](https://github.com/joshdaniels/stock-analysis/blob/main/2017_after.png)
+
+2018 After Refactoring runtime:
+
+![2018 ARuntime](https://github.com/joshdaniels/stock-analysis/blob/main/2018_after.png)
 
 ## Summary
 
